@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab6.py
+=================================================================
+    User login name: kmanzi1
+    Linux system name: OP345
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/kmanzi1/ops445/lab-6-kmanzi1
+    Start at: Fri Jul 11 13:15:47 2025
+=================================================================
